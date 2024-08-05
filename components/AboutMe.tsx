@@ -23,7 +23,7 @@ const AboutMe = () => {
         <div className="flex justify-between mt-20">
           <div className="flex flex-col gap-10 items-center justify-center ml-40">
             <Image
-              src="/portfolio-josh/images/IMG_6386 (1)cpng"
+              src="/images/IMG_6386 (1).png"
               width={350}
               height={350}
               alt="me"
